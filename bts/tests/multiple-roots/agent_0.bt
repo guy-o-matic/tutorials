@@ -8,7 +8,48 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "name": "Say",
+          "inputParams": [
+            {
+              "key": "message",
+              "type": "string",
+              "value": "A"
+            }
+          ],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "690b59f5-57a6-42a3-8643-2b0a3b8ac40d",
+        "type": "action"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "name": "Say",
+          "inputParams": [
+            {
+              "key": "message",
+              "type": "string",
+              "value": "B"
+            }
+          ],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "e3ded866-b217-40e9-9748-654c96779c63",
+        "type": "action"
+      }
+    ],
     "id": "31f30711-f3c0-44a3-b572-92a8cabd7714"
   }
 ]
